@@ -1,12 +1,10 @@
 ---
 title: Personalized Workout Diet Planner
-emoji: 💪
 colorFrom: green
 colorTo: blue
 sdk: gradio
 sdk_version: 5.9.1
 app_file: app.py
-pinned: false
 license: mit
 short_description: AI chatbot that creates personalised workout & diet plans
 ---
