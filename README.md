@@ -14,6 +14,8 @@ short_description: AI chatbot that creates personalised workout & diet plans
 FitBot is a **real-time conversational AI fitness coach** built with Gradio and powered by **LLaMA-3.3-70B** via the Groq API.  
 It generates fully customised 7-day workout and meal plans based on the user's personal profile, fitness goals, budget, and available equipment — all through a natural chat interface.
 
+Link to open the FITBOT- AI WORKOUT & DIET PLANNER app : https://huggingface.co/spaces/seeni-shiva/fitbot-workout-diet-planner
+
 ---
 
 ## 🎯 Features
