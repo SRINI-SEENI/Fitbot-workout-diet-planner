@@ -24,7 +24,7 @@ Link to open the FITBOT- AI WORKOUT & DIET PLANNER app : https://huggingface.co/
 |---|---|
 | 🤖 Real-time AI responses | Streams responses token-by-token using Groq's ultra-fast inference |
 | 🏋️ Personalised workout plans | 7-day plans with exercises, sets, reps, rest times |
-| 🥗 Custom meal plans | Budget-friendly, culturally aware 7-day meal schedules |
+| 🥗 Custom meal plans | Budget-friendly, culturally awared meal and workout schedules |
 | 💬 Conversational interface | Follow-up questions, plan adjustments, recipe ideas |
 | ⚡ Fast streaming | LLaMA-3.3-70B on Groq (~500 tokens/sec) |
 | 🌐 Deployed on HF Spaces | Publicly accessible, no install required |
@@ -37,7 +37,6 @@ Link to open the FITBOT- AI WORKOUT & DIET PLANNER app : https://huggingface.co/
 fitbot-workout-diet-planner/
 │
 ├── app.py              # Main Gradio application — entry point
-├── config.py           # Centralised configuration (model, params, metadata)
 ├── prompts.py          # All AI system prompts and goal-specific templates
 ├── utils.py            # Helper utilities (Groq streaming, BMI, TDEE calculator)
 ├── requirements.txt    # Python dependencies
